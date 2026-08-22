@@ -1,5 +1,7 @@
 # Reinforcement Learning Maze Solver
 
+<img width="546" height="546" alt="maze_GIF" src="https://github.com/user-attachments/assets/ec541dd8-a6b2-4962-8b68-f946db51130c" />
+
 An interactive reinforcement learning project where an agent learns to navigate procedurally generated mazes through trial and error.
 
 The project combines a recursive maze-generation algorithm with a Q-learning agent, allowing the agent to learn which actions produce better outcomes based on rewards and penalties.
