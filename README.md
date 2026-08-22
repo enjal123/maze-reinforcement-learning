@@ -1,6 +1,5 @@
 # Reinforcement Learning Maze Solver
 
-<img width="546" height="546" alt="maze_GIF" src="https://github.com/user-attachments/assets/ec541dd8-a6b2-4962-8b68-f946db51130c" />
 
 An interactive reinforcement learning project where an agent learns to navigate procedurally generated mazes through trial and error.
 
@@ -15,6 +14,8 @@ The program visually generates a random maze, trains an agent through repeated e
 ---
 
 ## How It Works
+
+<img width="546" height="546" alt="maze_GIF" src="https://github.com/user-attachments/assets/ec541dd8-a6b2-4962-8b68-f946db51130c" />
 
 The project is built around a reinforcement learning loop:
 
